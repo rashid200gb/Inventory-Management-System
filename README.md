@@ -18,7 +18,7 @@ Install required libraries:
 pip install streamlit
 
 Run the app using Python:
-streamlit run inventory_app.py
+streamlit run inventory_app.py (reamlit1.py)
 
 Tech Stack:
 
